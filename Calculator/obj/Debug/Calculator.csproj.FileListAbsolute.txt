@@ -1,0 +1,7 @@
+Y:\EE Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+Y:\EE Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+Y:\EE Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+Y:\EE Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+Y:\EE Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+Y:\EE Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+Y:\EE Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
