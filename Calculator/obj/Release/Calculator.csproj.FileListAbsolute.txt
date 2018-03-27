@@ -1,0 +1,6 @@
+\\optimus\D$\Shared\EE Projects\GitHub\Calculator-Mentor-Project-\Calculator\Calculator\bin\Release\Calculator.exe.config
+\\optimus\D$\Shared\EE Projects\GitHub\Calculator-Mentor-Project-\Calculator\Calculator\bin\Release\Calculator.exe
+\\optimus\D$\Shared\EE Projects\GitHub\Calculator-Mentor-Project-\Calculator\Calculator\bin\Release\Calculator.pdb
+\\optimus\D$\Shared\EE Projects\GitHub\Calculator-Mentor-Project-\Calculator\Calculator\obj\Release\Calculator.csproj.CoreCompileInputs.cache
+\\optimus\D$\Shared\EE Projects\GitHub\Calculator-Mentor-Project-\Calculator\Calculator\obj\Release\Calculator.exe
+\\optimus\D$\Shared\EE Projects\GitHub\Calculator-Mentor-Project-\Calculator\Calculator\obj\Release\Calculator.pdb
