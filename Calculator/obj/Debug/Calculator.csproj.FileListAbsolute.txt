@@ -18,3 +18,4 @@ Y:\EE Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
 \\optimus\D$\Shared\EE Projects\GitHub\Calculator-Mentor-Project-\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 \\optimus\D$\Shared\EE Projects\GitHub\Calculator-Mentor-Project-\Calculator\Calculator\obj\Debug\Calculator.exe
 \\optimus\D$\Shared\EE Projects\GitHub\Calculator-Mentor-Project-\Calculator\Calculator\obj\Debug\Calculator.pdb
+\\optimus\D$\Shared\EE Projects\GitHub\Calculator-Mentor-Project-\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
